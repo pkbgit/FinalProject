@@ -7,6 +7,8 @@ public class TestJava {
 		int x =0;
 		System.out.println("Main method started");
 		System.out.println("The value of x is : "+x);
+		x = x+10;
+		System.out.println("The value of x is : "+x);
 
 	}
 
