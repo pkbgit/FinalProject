@@ -6,6 +6,7 @@ public class TestJava {
 		// TODO Auto-generated method stub
 		int x =0;
 		System.out.println("Main method started");
+		System.out.println("The value of x is : "+x);
 
 	}
 
