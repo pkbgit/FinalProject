@@ -9,7 +9,8 @@ public class TestJava {
 		System.out.println("The value of x is : "+x);
 		x = x+10;
 		System.out.println("The value of x is : "+x);
-
+		x = x * 6;
+		System.out.println("The value of x after multiplication is : "+x);
 	}
 
 }
