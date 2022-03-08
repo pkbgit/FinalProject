@@ -6,6 +6,8 @@ public class TestJava3 {
 		System.out.println("Hello world");
 		System.out.println("Heloo India. I love India.");
 		System.out.println("Helloooooooo India. I love India so much.");
+		System.out.println("Helloooooooo Odisha.");
+		System.out.println("Helloooooooo Odisha, Hou are you?");
 	}
 
 }
