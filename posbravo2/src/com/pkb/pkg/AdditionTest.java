@@ -11,6 +11,7 @@ public class AdditionTest {
 		
 		d = a + b + c;
 		
+		System.out.println("Value of a is: "+ a);
 		System.out.println("Addition of a, b, and c is: "+ d);
 
 	}
